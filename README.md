@@ -47,8 +47,8 @@ HANYA folder **bernama NIM Anda yang telah dikompres menggunakan zip** yang akan
 
 Diberikan file `index.html` dan `style.css` yang adalah template untuk CV, dengan file-file tersebut lakukanlah:
 
-- ubahlah file `index.html` sehingga sesuai dengan CV Anda **[50 poin]**,
-- gunakan CSS `style.css` untuk mengubah tampilan halaman CV Anda sehingga menjadi sebuah halaman CV yang dapat dibanggakan (desain dapat mencontoh dari CV milik orang lain di internet) **[50 poin]**.
+- ubahlah file `index.html` sehingga sesuai dengan CV Anda **[80 poin]**,
+- gunakan CSS `style.css` untuk mengubah tampilan halaman CV Anda sehingga menjadi sebuah halaman CV yang dapat dibanggakan (desain dapat mencontoh dari CV milik orang lain di internet) **[20 poin]**.
 
 ## Penutup
 
