@@ -38,7 +38,7 @@ Berikut ini adalah petunjuk dalam mengumpulkan jawaban:
 
 - setelah selesai mengerjakan tolong periksa kembali hasil kerja Anda,
 - kompres folder `20188040001` pada langkah petunjuk umum di atas menggunakan kompresi zip sehingga menjadi sebuah file bernama `NPM.zip` seperti contoh `20188040001.zip`,
-- kumpulkan pada saat hari ujian menggunakan FD.
+- kumpulkan melalui email ke `dhimas@lepisi.ac.id` dengan subjek `WD2020UTS` (pastikan subjek dan nama folder sesuai dengan ketentuan untuk menghindari nilai yang terselip).
 
 **PERHATIAN**:
 HANYA folder **bernama NIM Anda yang telah dikompres menggunakan zip** yang akan diperiksa. Kesalahan pada tahap ini akan menyebabkan jawaban Anda tidak dinilai! Saya **TIDAK** memeriksa jawaban yang dikumpulkan jika berupa folder.
